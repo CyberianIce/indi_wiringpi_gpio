@@ -1,6 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<driversList>
 <devGroup group="Auxiliary">
-	<device label="WiringPi GPIO">
-        <driver name="WiringPi GPIO">indi_wiringpi_gpio</driver>
-        <version>0.1</version>
+	<device label="WiringPi GPIO" manufacturer="magnue">
+        	<driver name="WiringPi GPIO">indi_wiringpi_gpio</driver>
+        	<version>0.1</version>
 	</device>
 </devGroup>
+</driversList>
